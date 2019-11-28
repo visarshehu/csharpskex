@@ -8,9 +8,11 @@ namespace Exam_SK.Models
 {
     public class DatabaseContext : DbContext
     {
+        public object ORDER { get; internal set; }
+
         protected override void OnConfiguring(DbContextOptionsBuilder builder)
         {
-            builder.UseSqlServer("Server=rd27240EX01;Database=DB02;Trusted_Connection=True;");
+            builder.UseSqlServer("Server=DB02;Database=sa21835ex1;Trusted_Connection=True;");
         }
 
     }
