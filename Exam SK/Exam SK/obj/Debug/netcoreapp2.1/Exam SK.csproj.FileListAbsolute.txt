@@ -1,0 +1,34 @@
+C:\Users\HP\Source\Repos\csharpskex\Exam SK\Exam SK\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\HP\Source\Repos\csharpskex\Exam SK\Exam SK\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\HP\Source\Repos\csharpskex\Exam SK\Exam SK\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\HP\Source\Repos\csharpskex\Exam SK\Exam SK\bin\Debug\netcoreapp2.1\Exam SK.deps.json
+C:\Users\HP\Source\Repos\csharpskex\Exam SK\Exam SK\bin\Debug\netcoreapp2.1\Exam SK.runtimeconfig.json
+C:\Users\HP\Source\Repos\csharpskex\Exam SK\Exam SK\bin\Debug\netcoreapp2.1\Exam SK.runtimeconfig.dev.json
+C:\Users\HP\Source\Repos\csharpskex\Exam SK\Exam SK\bin\Debug\netcoreapp2.1\Exam SK.dll
+C:\Users\HP\Source\Repos\csharpskex\Exam SK\Exam SK\obj\Debug\netcoreapp2.1\Exam SK.csprojAssemblyReference.cache
+C:\Users\HP\Source\Repos\csharpskex\Exam SK\Exam SK\obj\Debug\netcoreapp2.1\Exam SK.RazorAssemblyInfo.cache
+C:\Users\HP\Source\Repos\csharpskex\Exam SK\Exam SK\obj\Debug\netcoreapp2.1\Exam SK.RazorAssemblyInfo.cs
+C:\Users\HP\Source\Repos\csharpskex\Exam SK\Exam SK\obj\Debug\netcoreapp2.1\Exam SK.AssemblyInfoInputs.cache
+C:\Users\HP\Source\Repos\csharpskex\Exam SK\Exam SK\obj\Debug\netcoreapp2.1\Exam SK.AssemblyInfo.cs
+C:\Users\HP\Source\Repos\csharpskex\Exam SK\Exam SK\obj\Debug\netcoreapp2.1\Exam SK.TagHelpers.input.cache
+C:\Users\HP\Source\Repos\csharpskex\Exam SK\Exam SK\obj\Debug\netcoreapp2.1\Exam SK.TagHelpers.output.cache
+C:\Users\HP\Source\Repos\csharpskex\Exam SK\Exam SK\obj\Debug\netcoreapp2.1\Exam SK.RazorCoreGenerate.cache
+C:\Users\HP\Source\Repos\csharpskex\Exam SK\Exam SK\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\HP\Source\Repos\csharpskex\Exam SK\Exam SK\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\HP\Source\Repos\csharpskex\Exam SK\Exam SK\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\HP\Source\Repos\csharpskex\Exam SK\Exam SK\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\HP\Source\Repos\csharpskex\Exam SK\Exam SK\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\HP\Source\Repos\csharpskex\Exam SK\Exam SK\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\HP\Source\Repos\csharpskex\Exam SK\Exam SK\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\HP\Source\Repos\csharpskex\Exam SK\Exam SK\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\HP\Source\Repos\csharpskex\Exam SK\Exam SK\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\HP\Source\Repos\csharpskex\Exam SK\Exam SK\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\HP\Source\Repos\csharpskex\Exam SK\Exam SK\obj\Debug\netcoreapp2.1\Exam SK.RazorTargetAssemblyInfo.cache
+C:\Users\HP\Source\Repos\csharpskex\Exam SK\Exam SK\obj\Debug\netcoreapp2.1\Exam SK.RazorTargetAssemblyInfo.cs
+C:\Users\HP\Source\Repos\csharpskex\Exam SK\Exam SK\bin\Debug\netcoreapp2.1\Exam SK.pdb
+C:\Users\HP\Source\Repos\csharpskex\Exam SK\Exam SK\bin\Debug\netcoreapp2.1\Exam SK.Views.dll
+C:\Users\HP\Source\Repos\csharpskex\Exam SK\Exam SK\bin\Debug\netcoreapp2.1\Exam SK.Views.pdb
+C:\Users\HP\Source\Repos\csharpskex\Exam SK\Exam SK\obj\Debug\netcoreapp2.1\Exam SK.Views.pdb
+C:\Users\HP\Source\Repos\csharpskex\Exam SK\Exam SK\obj\Debug\netcoreapp2.1\Exam SK.dll
+C:\Users\HP\Source\Repos\csharpskex\Exam SK\Exam SK\obj\Debug\netcoreapp2.1\Exam SK.pdb
+C:\Users\HP\Source\Repos\csharpskex\Exam SK\Exam SK\obj\Debug\netcoreapp2.1\Exam SK.csproj.CopyComplete
