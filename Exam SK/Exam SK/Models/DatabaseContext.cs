@@ -8,10 +8,15 @@ namespace Exam_SK.Models
 {
     public class DatabaseContext : DbContext
     {
+
+        public DbSet<User> Users { get; set; }
+        public DbSet<Car> Cars { get; set; }
+        public DbSet<Rented> Rented { get; set; }
+
+
         protected override void OnConfiguring(DbContextOptionsBuilder builder)
         {
-            builder.UseSqlServer("Server=rd27240EX01;Database=DB02;Trusted_Connection=True;");
+            builder.UseSqlServer("Server=DESKTOP-1NL0UKE;Database=exam_database;Trusted_Connection=True;");
         }
-
     }
 }
