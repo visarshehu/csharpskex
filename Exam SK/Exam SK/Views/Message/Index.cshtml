@@ -1,0 +1,17 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>Index</h2>
+<table>
+    <tr><td>10 messages: </td></tr>
+    @foreach(var m in Model)
+    {
+    <tr>
+        <td>
+            @m
+        </td>
+    </tr>
+    }
+</table>

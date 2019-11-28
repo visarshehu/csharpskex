@@ -1,0 +1,11 @@
+﻿@model Exam_SK.Models.Message
+@{
+    ViewData["Title"] = "AddMessage";
+}
+
+<h2>AddMessage</h2>
+
+<form asp-action="AddMessage" method="post">
+    <input asp-for="Messages" /><br/>
+    <input type="submit" value="add"/>
+</form>
