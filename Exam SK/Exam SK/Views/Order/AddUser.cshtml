@@ -1,0 +1,18 @@
+﻿@model Exam_SK.Models.User
+@{
+    ViewData["Title"] = "AddUser";
+}
+
+<h2>AddUser</h2>
+
+<form asp-action="AddUser">
+    Name: <input asp-for="Name" /><br />
+
+    SurName: <input asp-for="Surname" /><br />
+
+    UserName: <input asp-for="UName" /><br />
+    PassWord:  <input asp-for="Password" /><br />
+    Email: <input asp-for="Email" /><br />
+  
+    <input type="submit" value="Register" />
+</form>

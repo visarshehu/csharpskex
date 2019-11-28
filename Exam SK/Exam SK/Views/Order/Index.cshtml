@@ -1,0 +1,15 @@
+﻿@model List<Exam_SK.Models.CyberTruck>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>Index</h2>
+<table>
+    @foreach (var s in Model)
+    {
+        <tr>
+            <td>@s.Model</td>
+        </tr>
+    }
+</table>
+

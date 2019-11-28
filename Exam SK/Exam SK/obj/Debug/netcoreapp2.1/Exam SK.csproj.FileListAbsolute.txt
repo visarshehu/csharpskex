@@ -1,0 +1,2 @@
+C:\Users\Lenovo\Desktop\c#\WebApplication1\csharpskex\Exam SK\Exam SK\bin\Debug\netcoreapp2.1\Exam SK.dll
+C:\Users\Lenovo\Desktop\c#\WebApplication1\csharpskex\Exam SK\Exam SK\bin\Debug\netcoreapp2.1\Exam SK.pdb
