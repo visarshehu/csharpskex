@@ -1,0 +1,26 @@
+﻿@model Exam_SK.Models.Car
+@{
+    ViewData["Title"] = "AddCar";
+}
+
+<h2>AddCar</h2>
+<form asp-action="AddCar">
+    Manufacturer:
+    <input asp-for="Manufacturer"/>
+    <br/>
+    Model:
+    <input asp-for="Model" />
+    YearOfProduction
+    <input asp-for="YearOfProduction"/>
+    FuelType:
+    <input asp-for="FuelType"/>
+    LicencePlate:
+    <input asp-for="LicencePlate"/>
+    DataRegistered:
+    <input asp-for="DataRegistered"/>
+    <input type="submit" value="REG"/>
+
+
+
+</form>
+

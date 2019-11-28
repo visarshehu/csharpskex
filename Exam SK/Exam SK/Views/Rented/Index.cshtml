@@ -1,0 +1,17 @@
+﻿@model List<Exam_SK.Models.Rented>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>Index</h2>
+<table>
+    @foreach (var s in Model)
+    {
+    <tr>
+        <td>
+           @s.car.LicencePlate; 
+        </td>
+    </tr>
+    }
+</table>
+
