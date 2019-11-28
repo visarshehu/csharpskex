@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sj27162\\Desktop\\exam\\Exam SK\\Exam SK\\Exam SK.csproj": {}
+    "C:\\Users\\sm27042\\Source\\Repos\\csharpskex\\Exam SK\\Exam SK\\Exam SK.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sj27162\\Desktop\\exam\\Exam SK\\Exam SK\\Exam SK.csproj": {
+    "C:\\Users\\sm27042\\Source\\Repos\\csharpskex\\Exam SK\\Exam SK\\Exam SK.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sj27162\\Desktop\\exam\\Exam SK\\Exam SK\\Exam SK.csproj",
+        "projectUniqueName": "C:\\Users\\sm27042\\Source\\Repos\\csharpskex\\Exam SK\\Exam SK\\Exam SK.csproj",
         "projectName": "Exam SK",
-        "projectPath": "C:\\Users\\sj27162\\Desktop\\exam\\Exam SK\\Exam SK\\Exam SK.csproj",
-        "packagesPath": "C:\\Users\\sj27162\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sj27162\\Desktop\\exam\\Exam SK\\Exam SK\\obj\\",
+        "projectPath": "C:\\Users\\sm27042\\Source\\Repos\\csharpskex\\Exam SK\\Exam SK\\Exam SK.csproj",
+        "packagesPath": "C:\\Users\\sm27042\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sm27042\\Source\\Repos\\csharpskex\\Exam SK\\Exam SK\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\sj27162\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\sm27042\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -58,6 +58,10 @@
               "target": "Package",
               "version": "[2.1.0, )",
               "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.1.10, )"
             }
           },
           "imports": [
