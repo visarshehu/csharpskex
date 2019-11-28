@@ -1,0 +1,22 @@
+﻿
+@{
+    ViewData["Title"] = "Action";
+}
+
+
+<h1>Action</h1>
+<table>
+    <tr>
+        <td>Messages:</td>
+    </tr>
+
+    @foreach (var m in Model)
+    {
+        <tr>
+            <td>
+                @m
+            </td>
+        </tr>
+    }
+
+</table>
